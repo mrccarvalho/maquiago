@@ -73,6 +73,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piranha.Manager.LocalAuth",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piranha.AspNetCore.Hosting", "core\Piranha.AspNetCore.Hosting\Piranha.AspNetCore.Hosting.csproj", "{8AFA0D7F-BDD9-41E0-BC69-B2B762516F33}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcWeb", "MvcWeb\MvcWeb.csproj", "{BCE4C9AB-5076-4E14-A8D7-BE0EC80B1BD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiranhaCMS.Search", "PiranhaCMS.Search\PiranhaCMS.Search.csproj", "{D502A723-FC08-4D61-88CE-AAFC67CB4C53}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiranhaCMS.Common", "PiranhaCMS.Extensions\PiranhaCMS.Common.csproj", "{C8A2A048-2B7E-4EDE-9A8A-D598D4BEF12C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiranhaCMS.Validators", "PiranhaCMS.Validators\PiranhaCMS.Validators.csproj", "{531E8141-06BF-473A-BF4D-2D022DC26371}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiranhaCMS.ImageCache", "PiranhaCMS.ImageCache\PiranhaCMS.ImageCache.csproj", "{12537FF0-02BC-49F8-93DE-043F017E037C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiranhaCMS.ContentTypes", "PiranhaCMS.ContentTypes\PiranhaCMS.ContentTypes.csproj", "{3A532B05-010D-4886-A3FE-76D1E1CDCA60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
